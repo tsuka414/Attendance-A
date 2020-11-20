@@ -4,7 +4,7 @@
 
 ## 開発環境
 
-* AWS Cloud9
+* AWS Cloud9 to VSCode
 * Ruby
 * Rails
 * Git(change from HTTPS to SSH)
